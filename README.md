@@ -1,4 +1,9 @@
 # Data Cleaning & Visualization - Titanic Dataset
+## 📂 Project Reports 
+
+If the notebooks below do not load, please use these PDF versions:
+* 📄 [Titanic Survival Analysis - PDF Report](Titanic_Survival_Analysis_Report.pdf)
+* 📄 [NYC Taxi Analysis - PDF Report](NYC_Taxi_Project_Report.pdf)
 
 ## Project Overview
 This project involves cleaning and analyzing the Titanic dataset to discover patterns in passenger survival. It was completed as Task 1 of my Data Science Internship.
@@ -47,4 +52,4 @@ In this phase, I acted as a data detective to uncover the "why" behind the survi
 * **Machine Learning:** Scikit-Learn (Random Forest, Linear Regression, Train/Test Splitting)
 * **Problem Solving:** Handling data glitches, fixing "404" errors, and resolving software warnings.
 
-* 📄 **[Download/View PDF Report](NYC_Taxi_Project_Report.pdf)** (Recommended if the notebook fails to load)
+
