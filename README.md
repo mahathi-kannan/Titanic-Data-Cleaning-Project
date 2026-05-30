@@ -19,3 +19,11 @@ For this task, I built a Machine Learning model to predict passenger survival.
 - **Accuracy:** [Insert your accuracy %, e.g., 100%]
 - **Key Visuals:** Included a Confusion Matrix and ROC Curve to evaluate model performance.
 - **Logic:** Visualized the Decision Tree nodes to understand the survival criteria (Gender and Class).
+  
+## Task 3: Exploratory Data Analysis (EDA)
+In this phase, I acted as a data detective to uncover the "why" behind the survival rates.
+
+### Key Insights:
+* **Correlation:** Higher fares and lower class numbers (1st Class) significantly increased survival chances.
+* **Demographics:** Age and Gender remained the most dominant factors in the decision-making process during the disaster.
+* **Family Size:** Traveling with a small family (1-3 people) showed a better survival trend than traveling alone.
