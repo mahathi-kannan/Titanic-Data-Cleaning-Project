@@ -27,3 +27,24 @@ In this phase, I acted as a data detective to uncover the "why" behind the survi
 * **Correlation:** Higher fares and lower class numbers (1st Class) significantly increased survival chances.
 * **Demographics:** Age and Gender remained the most dominant factors in the decision-making process during the disaster.
 * **Family Size:** Traveling with a small family (1-3 people) showed a better survival trend than traveling alone.
+
+---
+
+## Task 4: Real-World NYC Taxi Analysis
+* **File:** `NYC_Taxi_Analysis_Task4.ipynb`
+* **Domain:** Transportation & Logistics
+* **Goal:** Apply data science skills to a real-world NYC Taxi dataset to identify revenue patterns and predict trip costs.
+* **Key Findings:**
+    * **Peak Hours:** Revenue peaks between 4 PM and 7 PM (Evening rush hour).
+    * **Borough Insights:** Manhattan leads in total trip volume, while trips from outer boroughs like Queens often result in higher average tips.
+    * **Model:** Developed a Linear Regression model to estimate total fares based on distance and tips.
+
+---
+
+## 🛠️ Skills & Tools Mastered (Final Summary)
+* **Programming:** Python (Pandas, NumPy)
+* **Visualization:** Matplotlib, Seaborn (Correlation heatmaps, Bar charts, Time-series plots)
+* **Machine Learning:** Scikit-Learn (Random Forest, Linear Regression, Train/Test Splitting)
+* **Problem Solving:** Handling data glitches, fixing "404" errors, and resolving software warnings.
+
+**Internship Status:** 100% Completed 
