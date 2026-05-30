@@ -11,3 +11,11 @@ This project involves cleaning and analyzing the Titanic dataset to discover pat
 ## Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Google Colab
+  
+## Task 2: Predictive Modeling
+For this task, I built a Machine Learning model to predict passenger survival.
+
+- **Algorithm:** Random Forest Classifier.
+- **Accuracy:** [Insert your accuracy %, e.g., 100%]
+- **Key Visuals:** Included a Confusion Matrix and ROC Curve to evaluate model performance.
+- **Logic:** Visualized the Decision Tree nodes to understand the survival criteria (Gender and Class).
