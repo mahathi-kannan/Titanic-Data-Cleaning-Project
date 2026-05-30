@@ -47,4 +47,4 @@ In this phase, I acted as a data detective to uncover the "why" behind the survi
 * **Machine Learning:** Scikit-Learn (Random Forest, Linear Regression, Train/Test Splitting)
 * **Problem Solving:** Handling data glitches, fixing "404" errors, and resolving software warnings.
 
-
+* 📄 **[Download/View PDF Report](NYC_Taxi_Project_Report.pdf)** (Recommended if the notebook fails to load)
